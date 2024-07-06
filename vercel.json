@@ -10,15 +10,6 @@
         "use": "@vercel/static-build"
       }
     ],
-    "routes": [
-      {
-        "src": "/backend/(.*)",
-        "dest": "/backend/$1"
-      },
-      {
-        "src": "/(.*)",
-        "dest": "/frontend/$1"
-      }
-    ],
+   
     "rewrites": [{ "source": "/(.*)", "destination": "/" }]
   }

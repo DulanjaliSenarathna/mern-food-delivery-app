@@ -30,7 +30,7 @@ app.get("/",(req,res)=>{
 })
 
 app.listen(port,()=>{
-    console.log(`Server started on https://mern-food-delivery-app-one.vercel.app/:${port}`)
+    console.log(`Server started on http://localhost:${port}`)
 })
 
 //mongodb+srv://dulanjalisenarathna93:E2JUb0zfaT2FVp8D@cluster0.exkxkun.mongodb.net/?

@@ -37,7 +37,7 @@ This is a full-stack food ordering web application built using the MERN stack (M
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/yourusername/mern-food-ordering-app.git](https://github.com/DulanjaliSenarathna/mern-food-delivery-app.git
+git clone https://github.com/DulanjaliSenarathna/mern-food-delivery-app.git
 cd mern-food-delivery-app
 ```
 

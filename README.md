@@ -102,7 +102,7 @@ npm install
 
 Start the admin app :
 ```sh
-npm start
+npm run dev
 ```
 
 ## Usage
